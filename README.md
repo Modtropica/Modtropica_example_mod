@@ -1,2 +1,2 @@
-# Modtropica_example_mod
-Modtropica example mod
+# Modtropica example mod
+this is a example mod for modtropica
