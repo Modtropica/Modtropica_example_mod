@@ -1,0 +1,13 @@
+{
+    "Guid":"Modtropica_example",
+    "name": "Modtropica example mod",
+    "image_name": "", 
+    "description": "a example mod for modtropica",
+    "type": 2,
+    "Developer": [
+        "Modtropica team"
+    ],
+    "file_def": [
+        "patch/code.json"
+    ]
+}
